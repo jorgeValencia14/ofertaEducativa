@@ -1,0 +1,14 @@
+footer{
+	color:#686868;
+}
+footer li {
+  background-color:#000;
+  color:#686868;
+  padding:0px 50px;
+  list-style: none;
+  }
+#linefooter{
+	background-color:#cccccc;
+	height:150px;  
+}
+
